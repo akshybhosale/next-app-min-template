@@ -1,3 +1,8 @@
+import UserCardImage from "./UserCardImage";
 export default function HomePage() {
-  return <div>Home page</div>;
+  return <div>
+    
+    <UserCardImage/>
+    
+  </div>;
 }
